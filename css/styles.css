@@ -745,6 +745,11 @@ img {
 }
 
 /* ----- FAQ ----- */
+#duvidas .eyebrow,
+#duvidas .t2 {
+  text-align: center;
+}
+
 .faq {
   display: grid;
   gap: 10px;
